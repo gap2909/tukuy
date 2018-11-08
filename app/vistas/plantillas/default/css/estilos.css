@@ -1,0 +1,69 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/03/2018, 01:59:19 AM
+    Author     : Gustavo Páez, <gpaez@eval.org.ve>
+*/
+
+body {
+    padding-top: 70px;
+}
+
+.navbar-primary {
+  background-color: #3399FF;
+  border-color: #000099;
+}
+.navbar-primary .navbar-brand {
+  color: #D6FFFF;
+}
+.navbar-primary .navbar-brand:hover,
+.navbar-primary .navbar-brand:focus {
+  color: #002A80;
+  background-color: transparent;
+}
+.navbar-primary .navbar-text {
+  color: #D6FFFF;
+}
+.navbar-primary .navbar-nav > li > a {
+  color: #D6FFFF;
+}
+.navbar-primary .navbar-nav > li > a:hover,
+.navbar-primary .navbar-nav > li > a:focus {
+  color: #002A80;
+  background-color: transparent;
+}
+.navbar-primary .navbar-nav > .active > a,
+.navbar-primary .navbar-nav > .active > a:hover,
+.navbar-primary .navbar-nav > .active > a:focus {
+  color: #00246B;
+  background-color: #00A3F5;
+}
+.navbar-primary .navbar-nav > .disabled > a,
+.navbar-primary .navbar-nav > .disabled > a:hover,
+.navbar-primary .navbar-nav > .disabled > a:focus {
+  color: #ccc;
+  background-color: transparent;
+}
+.navbar-primary .navbar-toggle {
+  border-color: #ddd;
+}
+.navbar-primary .navbar-toggle:hover,
+.navbar-primary .navbar-toggle:focus {
+  background-color: #ddd;
+}
+.navbar-primary .navbar-toggle .icon-bar {
+  background-color: #888;
+}
+.navbar-primary .navbar-collapse,
+.navbar-primary .navbar-form {
+  border-color: #e7e7e7;
+}
+.navbar-primary .navbar-nav > .open > a,
+.navbar-primary .navbar-nav > .open > a:hover,
+.navbar-primary .navbar-nav > .open > a:focus {
+  color: #555;
+  background-color: #002A80;
+}

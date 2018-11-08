@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/03/2018, 04:40:10 PM
+    Author     : Gustavo Páez, <gpaez@eval.org.ve>
+*/
+
+.login {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+#formularioLogin {
+    max-width: 340px;
+    -webkit-box-shadow: 0px 0px 18px 0px rgba(40, 50, 50, 0.40);
+    -moz-box-shadow:    0px 0px 18px 0px rgba(40, 50, 50, 0.40);
+    box-shadow:         0px 0px 18px 0px rgba(40, 50, 50, 0.40);
+    border-radius: 6%;
+}
+
+#avatar {
+    width: 96px;
+    height: 96px;
+    margin: 0px auto 10px;
+    display: block;
+    border-radius: 50%;
+}
+
+.registro {
+    max-width: 370px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+#formularioRegistro {
+    max-width: 380px;
+    -webkit-box-shadow: 0px 0px 18px 0px rgba(40, 50, 50, 0.40);
+    -moz-box-shadow:    0px 0px 18px 0px rgba(40, 50, 50, 0.40);
+    box-shadow:         0px 0px 18px 0px rgba(40, 50, 50, 0.40);
+    border-radius: 6%;
+}
+
+#avatarRegistro {
+    width: 96px;
+    height: 96px;
+    margin: 0px auto 10px;
+    display: block;
+}
